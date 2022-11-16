@@ -1,4 +1,4 @@
-import { Card, Col, Row } from "antd";
+import { Card, Col, Row } from 'antd'
 
 export default function Home() {
   return (
@@ -15,5 +15,5 @@ export default function Home() {
         </Col>
       </Row>
     </>
-  );
+  )
 }
